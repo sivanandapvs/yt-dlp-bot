@@ -1,7 +1,7 @@
 telegram:
-  api_id: 00000000000
-  api_hash: "REPLACE-WITH-TELEGRAM-API-HASH"
-  token: "REPLACE-WITH-TELEGRAM-TOKEN"
+  api_id: 29868868
+  api_hash: "6b7bd10846ff6d7e8f50a4bfe13c9fd4"
+  token: "7038743703:AAEg9Rw5iIIvKegsT64UZnDE5fZYQbAIVSU"
   lang_code: !!str "en"
   max_upload_tasks: 5
   url_validation_regexes:
